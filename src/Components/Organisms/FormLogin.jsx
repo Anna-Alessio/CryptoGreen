@@ -32,9 +32,6 @@ export default function FormLogin() {
                 </div>
 
 
-
-                {/* HO MODIFICATO COME DA MOKUP LA PAROLA REGISTER IN SIGN UP, NON HO MODIFICATO ANCORA IL LINK CHIAMATO REGISTER CI PENSERò QUANDO DOVRò COLLEGARLO */}
-
                 <div className="text-center flex flex-col items-center mb-6 mt-20">
                     <Button to="/login/otp">NEXT</Button>
                     <Link to="/register/user-data" className='uppercase font-bold text-xl mt-3'>Sign Up </Link>
