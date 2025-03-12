@@ -1,0 +1,60 @@
+/* LINEE GUIDA DEI COLORI E DEI FONT UTILIZZATI PER IL PROGETTO */
+
+* {
+    font-family: "Quicksand", serif;
+}
+
+:root {
+    --primario: rgb(7, 6, 6);
+    --secondario: rgb(129, 129, 129);
+    --accento: rgb(41, 204, 122);
+    --bianco: rgb(246, 246, 246);
+}
+
+.bg-primario {
+    background-color: var(--primario);
+}
+
+.bg-secondario {
+    background-color: var(--secondario);
+}
+
+.bg-accento {
+    background-color: var(--accento);
+}
+
+.bg-bianco {
+    background-color: var(--bianco);
+}
+
+.text-primario {
+    color: var(--primario);
+}
+
+.text-secondario {
+    color: var(--secondario);
+}
+
+.text-accento {
+    color: var(--accento);
+}
+
+.text-bianco {
+    color: var(--bianco);
+}
+
+.border-primario {
+    border: 2px solid var(--primario);
+}
+
+.border-secondario {
+    border: 2px solid var(--secondario);
+}
+
+.border-accento {
+    border: 2px solid var(--accento);
+}
+
+.border-bianco {
+    border: 2px solid var(--bianco);
+}
