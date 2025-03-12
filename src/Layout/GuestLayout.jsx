@@ -1,4 +1,4 @@
-// LAYOUT GENERICO PER EVENTUALI ALTRI COMPONENTI da qui si modifica lo sfondo per tutte le pagine tranne welcome
+// LAYOUT GENERICO PER EVENTUALI ALTRI COMPONENTI
 
 export default function GuestLayout({ children }) {
 
