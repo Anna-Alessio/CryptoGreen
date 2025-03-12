@@ -1,4 +1,4 @@
-// LAYOUT DELLA PAGINA WALLET INTESTAZIONE + MENU CON SCRITTE da qui si modifica il colore sfondo pagina per send - receive e view all
+// LAYOUT DELLA PAGINA WALLET INTESTAZIONE + MENU CON SCRITTE
 
 import Navbar from "../Components/Organisms/Navbar.jsx";
 
