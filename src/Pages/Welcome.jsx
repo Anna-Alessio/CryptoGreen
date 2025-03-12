@@ -1,4 +1,4 @@
-// PAGINA PRINCIPALE DI ENTRATA SU WEB APP lo sfondo di questa pagina si modifica da qui
+// PAGINA PRINCIPALE DI ENTRATA SU WEB APP
 
 import "../App.css";
 import { Link } from "react-router-dom";
