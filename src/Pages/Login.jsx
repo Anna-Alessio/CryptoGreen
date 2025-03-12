@@ -1,4 +1,4 @@
-// HO CREATO LA PAGINA LOG IN INSERENDO LE SOAP TAG CHE NEL PDF MANCANO E QUESTO E' STATO FATTO SU TUTTE LE PAGINE
+// HO CREATO LA PAGINA LOGIN
 
 import GuestHeader from "../Components/Organisms/GuestHeader.jsx";
 import GuestLayout from "../Layout/GuestLayout.jsx";
